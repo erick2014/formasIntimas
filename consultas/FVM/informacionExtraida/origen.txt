@@ -1,0 +1,3 @@
+idOrigen,DescOrigen
+01        	NACIONAL
+02        	EXTERIOR

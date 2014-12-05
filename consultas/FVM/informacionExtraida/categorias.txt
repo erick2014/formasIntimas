@@ -1,0 +1,5 @@
+idCategoria	DescCategoria
+01        	MAYORISTA
+02        	DETALLISTA
+03        	CADENAS
+04        	EXTERIOR

@@ -1,0 +1,14 @@
+idZona,DescZona
+01        	PACIFICA
+02        	CARIBE
+03        	ANDINA
+04        	ORINOQUIA
+05        	AMAZONIA
+06        	INSULARES
+07        	NORTE AMERICA
+08        	CENTRO AMERICA
+09        	SUR AMERICA
+10        	ISLAS CARIBE
+11        	EUROPA
+12        	ASIA
+13        	OCEANIA

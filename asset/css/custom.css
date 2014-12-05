@@ -1,0 +1,71 @@
+/* Author: Louis Holladay
+ * Website: AdminDesigns.com
+ * Last Updated: 01/12/14 
+ 
+ * This file is reserved for changes made by 
+ * the user. It's often times a good idea to 
+ * seperate your changes from the themes core.
+ * It makes modifications, and future theme
+ * updates much easier to apply.
+-----------------------------------------------*/
+
+
+/* These styles have been placed here for as 
+ * they have a high chance of needing to be
+ * changed if one decides to modify the header
+-----------------------------------------------*/
+
+/* navbar bottom border disabled by default */
+.navbar {
+	border-bottom: 1px solid transparent;
+}
+/* header button states - text colors */
+.header-btns > div > button:focus {
+	color: #666;
+}
+.header-btns > div > button:hover {
+	color: #0094d2;
+}
+
+/* Login Page */
+
+body.login-page #page-logo {
+    margin: 11px auto 34px;
+    width: 250px;
+}
+
+body.login-page .footer {background-color: #FFFFFF; margin: 23px 0 auto; position: relative; text-align: center;}
+body.login-page .footer .img-responsive {display: inline;}
+
+
+/* Dashboard */
+
+header.navbar-fixed-top + #main {padding-top: 93px;}
+
+
+/* Panel de acciones Información Cliente */
+
+.cont_iconos {margin: 0 111px;}
+.cont_iconos span {float: left; margin: 0 0 62px; text-align: center; width: 92px;}
+.infocon_agregarpedido {width:64px;height: 64px;}
+.infocon_devolucion {width:64px;height: 64px;}
+.infocon_despaEstadopedido {width:64px;height: 64px;}
+.infocon_descuento {width:64px;height: 64px;}
+.infocon_verFotos {width:64px;height: 64px;}
+
+.infocon_agregarpedido span {}
+
+.infoConc_informacioCompra {margin: 0 9px;}
+.infoConc_informacioCompra .panel-heading {}
+
+.modal-sm { width: 300px; }
+.text-danger {margin:0; line-height: normal; text-align:center;}
+
+
+
+
+/*---------------------------------------------
+ * Place your custom styles or styles which 
+ * have been generated with the customization 
+ * tool below this line. 
+----------------------------------------------*/

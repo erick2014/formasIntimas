@@ -1,0 +1,2378 @@
+idCiudad,Ciudad
+1	MEDELLIN                      
+2	ABEJORRAL                     
+3	ABRIAQUI                      
+4	ALEJANDRIA                    
+5	AMAGA                         
+6	AMALFI                        
+7	ANDES                         
+8	ANGELOPOLIS                   
+9	ANGOSTURA                     
+10	ANORI                         
+11	SANTA FE DE ANTIOQUIA
+12	ANZA                          
+13	APARTADO                      
+14	ARBOLETES                     
+15	ARGELIA                       
+16	ARMENIA                       
+17	BARBOSA                       
+18	BELMIRA                       
+19	BELLO                         
+20	BETANIA                       
+21	BETULIA                       
+22	BOLIVAR                       
+23	BRICE#O                       
+24	BURITICA                      
+25	CACERES                       
+26	CAICEDO                       
+27	CALDAS                        
+28	CAMPAMENTO                    
+29	CAÑASGORDAS
+30	CARACOLI                      
+31	CARAMANTA                     
+32	CAREPA                        
+33	CARMEN DE VIBORAL             
+34	CAROLINA                      
+35	CAUCASIA                      
+36	CHIGORODO                     
+37	CISNEROS                      
+38	COCORNA                       
+39	CONCEPCION                    
+40	CONCORDIA                     
+41	COPACABANA                    
+42	DABEIBA                       
+43	DON MATIAS                    
+44	EBEJICO                       
+45	EL BAGRE                      
+46	ENTRERRIOS                    
+47	ENVIGADO                      
+48	FREDONIA                      
+49	FRONTINO                      
+50	GIRALDO                       
+51	GIRARDOTA                     
+52	GOMEZ PLATA                   
+53	GRANADA                       
+54	GUADALUPE                     
+55	GUARNE                        
+56	GUATAPE                       
+57	HELICONIA                     
+58	HISPANIA                      
+59	ITAGUI                        
+60	ITUANGO                       
+61	JARDIN                        
+62	JERICO                        
+63	LA CEJA                       
+64	LA ESTRELLA                   
+65	LA UNION                      
+66	LIBORINA                      
+67	MACEO                         
+68	MARINILLA                     
+69	MONTEBELLO                    
+70	MURINDO                       
+71	MUTATA                        
+72	NARI#O                        
+73	NECOCLI                       
+74	NECHI                         
+75	OLAYA                         
+76	PE#OL                         
+77	PEQUE                         
+78	PUEBLORRICO                   
+79	PUERTO BERRIO                 
+80	PTO NARE(LAMAGDALENA)         
+81	PUERTO TRIUNFO                
+82	REMEDIOS                      
+83	RETIRO                        
+84	RIONEGRO                      
+85	SABANALARGA                   
+86	SABANETA                      
+87	SALGAR                        
+88	SAN ANDRES
+89	SAN CARLOS                    
+90	SAN FRANCISCO                 
+91	SAN JERONIMO                  
+92	SAN JOSE DE LA MONTA#A        
+93	SAN JUAN DE URABA             
+94	SAN LUIS                      
+95	SAN PEDRO                     
+96	SAN PEDRO DE URABA            
+97	SAN RAFAEL                    
+98	SAN ROQUE                     
+99	SAN VICENTE                   
+100	SANTA BARBARA                 
+101	SANTA ROSA DE OSOS            
+102	SANTO DOMINGO                 
+103	SANTUARIO                     
+104	SEGOVIA                       
+105	SONSON                        
+106	SOPETRAN                      
+107	TAMESIS                       
+108	TARAZA                        
+109	TARSO                         
+110	TITIRIBI                      
+111	TOLEDO                        
+112	TURBO                         
+113	URAMITA                       
+114	URRAO                         
+115	VALDIVIA                      
+116	VALPARAISO                    
+117	VEGACHI                       
+118	VENECIA                       
+119	VIGIA DEL FUERTE              
+120	YALI                          
+121	YARUMAL                       
+122	YOLOMBO                       
+123	YONDO                         
+124	ZARAGOZA                      
+125	BARRANQUILLA                  
+126	BARANOA                       
+127	CAMPO D LA CRUZ               
+128	CANDELARIA                    
+129	GALAPA                        
+130	JUAN DE ACOSTA                
+131	LURUACO                       
+132	MALAMBO                       
+133	MANATI                        
+134	PALMAR DE VARELA              
+135	PIOJO                         
+136	POLONUEVO                     
+137	PONEDERA                      
+138	PUERTO COLOMBIA               
+139	REPELON                       
+140	SABANAGRANDE                  
+141	SABANALARGA                   
+142	SANTA LUCIA                   
+143	SANTO TOMAS                   
+144	SOLEDAD                       
+145	SUAN                          
+146	TUBARA                        
+147	USIACURI                      
+148	SANTAFE DE BOGOTA D.C.        
+149	CARTAGENA                     
+150	BOLIVAR (ANTIOQUIA)           
+151	ACHI                          
+152	ARJONA                        
+153	BARRANCO DE LOBA              
+154	CALAMAR                       
+155	CORDOBA                       
+156	EL CARMEN DE BOLIVAR
+157	EL GUAMO                      
+158	MAGANGUE                      
+159	MAHATES                       
+160	MARGARITA                     
+161	MARIA LA BAJA                 
+162	MOMPOS                        
+163	MORALES                       
+164	PINILLOS                      
+165	RIO VIEJO                     
+166	SAN ESTANISLAO                
+167	SAN FERNANDO                  
+168	SAN JACINTO                   
+169	SAN JUAN NEPOMUCENO           
+170	SAN MARTIN DE LOBA            
+171	SAN PABLO                     
+172	SANTA CATALINA                
+173	SANTA ROSA                    
+174	SANTA ROSA DEL SUR            
+175	SIMITI                        
+176	SOPLAVIENTO                   
+177	TALAIGUA NUEVO                
+178	TURBACO                       
+179	TURBANA                       
+180	VILLANUEVA                    
+181	ZAMBRANO                      
+182	TUNJA                         
+183	ALMEIDA                       
+184	AQUITANIA                     
+185	ARCABUCO                      
+186	BELEN                         
+187	BERBEO                        
+188	BETEITIVA                     
+189	BOAVITA                       
+190	BOYACA                        
+191	BRICENO                       
+192	BUENAVISTA                    
+193	BUSBANZA                      
+194	CALDAS                        
+195	CAMPOHERMOSO                  
+196	CERINZA                       
+197	CHINAVITA                     
+198	CHIQUINQUIRA                  
+199	CHISCAS                       
+200	CHITA                         
+201	CHITARAQUE                    
+202	CHIVATA                       
+203	CIENEGA                       
+204	COMBITA                       
+205	COPER                         
+206	CORRALES                      
+207	COVARACHIA                    
+208	CUBARA                        
+209	CUCAITA                       
+210	CUITIVA                       
+211	CHIQUIZA                      
+212	CHIVOR                        
+213	DUITAMA                       
+214	EL COCUY                      
+215	EL ESPINO                     
+216	FIRAVITOBA                    
+217	FLORESTA                      
+218	GACHANTIVA                    
+219	GAMEZA                        
+220	GARAGOA                       
+221	GUACAMAYAS                    
+222	GUATEQUE                      
+223	GUAYATA                       
+224	GUICAN                        
+225	IZA                           
+226	JENESANO                      
+227	JERICO                        
+228	LABRANZAGRANDE                
+229	LA CAPILLA                    
+230	LA VICTORIA                   
+231	LA UVITA                      
+232	VILLA DE LEYVA                
+233	MACANAL                       
+234	MARIPI                        
+235	MIRAFLORES                    
+236	MONGUA                        
+237	MONGUI                        
+238	MONIQUIRA                     
+239	MOTAVITA                      
+240	MUZO                          
+241	NOBSA                         
+242	NUEVO COLON                   
+243	OICATA                        
+244	OTANCHE                       
+245	PACHAVITA                     
+246	PAEZ                          
+247	PAIPA                         
+248	PAJARITO                      
+249	PANQUEBA                      
+250	PAUNA                         
+251	PAYA                          
+252	PAZ DE RIO                    
+253	PESCA                         
+254	PISVA                         
+255	PUERTO BOYACA                 
+256	QUIPAMA                       
+257	RAMIRIQUI                     
+258	RAQUIRA                       
+259	RONDON                        
+260	SABOYA                        
+261	SACHICA                       
+262	SAMACA                        
+263	SAN EDUARDO                   
+264	SAN JOSE DE PARE              
+265	SAN LUIS DE GACENO            
+266	SAN MATEO                     
+267	SAN MIGUEL DE SEMA            
+268	SAN PABLO DE BORBUR           
+269	SANTANA                       
+270	SANTA MARIA                   
+271	SANTA ROSA DE VITERBO         
+272	SANTA SOFIA                   
+273	SATIVANORTE                   
+274	SATIVASUR                     
+275	SIACHOQUE                     
+276	SOATA                         
+277	SOCOTA                        
+278	SOCHA                         
+279	SOGAMOSO                      
+280	SOMONDOCO                     
+281	SORA                          
+282	SOTAQUIRA                     
+283	SORACA                        
+284	SUSACON                       
+285	SUTAMARCHAN                   
+286	SUTATENZA                     
+287	TASCO                         
+288	TENZA                         
+289	TIBANA                        
+290	TIBASOSA                      
+291	TINJACA                       
+292	TIPACOQUE                     
+293	TOCA                          
+294	TOGUI                         
+295	TOPAGA                        
+296	TOTA                          
+297	TUNUNGUA                      
+298	TURMEQUE                      
+299	TUTA                          
+300	TUTASA                        
+301	UMBITA                        
+302	VENTAQUEMADA                  
+303	VIRACACHA                     
+304	ZETAQUIRA                     
+305	MANIZALES                     
+306	AGUADAS                       
+307	ANSERMA                       
+308	ARANZAZU                      
+309	BELALCAZAR                    
+310	CHINCHINA                     
+311	FILADELFIA                    
+312	LA DORADA                     
+313	LA MERCED                     
+314	MANZANARES                    
+315	MARMATO                       
+316	MARQUETALIA                   
+317	MARULANDA                     
+318	NEIRA                         
+319	PACORA                        
+320	PALESTINA                     
+321	PENSILVANIA                   
+322	RIOSUCIO                      
+323	RISARALDA                     
+324	SALAMINA                      
+325	SAMANA                        
+326	SUPIA                         
+327	VICTORIA                      
+328	VILLAMARIA                    
+329	VITERBO                       
+330	FLORENCIA                     
+331	ALBANIA                       
+332	BELEN DE LOS ANDAQUIES        
+333	CARTAGENA DEL CHAIRA          
+334	CURILLO                       
+335	EL DONCELLO                   
+336	EL PAUJIL                     
+337	LA MONTA#ITA                  
+338	MILAN                         
+339	MORELIA                       
+340	PUERTO RICO                   
+341	SAN JOSE DE FRAGUA            
+342	SAN VICENTE DEL CAGUAN        
+343	SOLANO                        
+344	VALPARAISO                    
+345	POPAYAN                       
+346	ALMAGUER                      
+347	ARGELIA                       
+348	BALBOA                        
+349	BOLIVAR                       
+350	BUENOS AIRES                  
+351	CAJIBIO                       
+352	CALDONO                       
+353	CALOTO                        
+354	CORINTO                       
+355	EL TAMBO                      
+356	FLORENCIA                     
+357	GUAPI                         
+358	INZA                          
+359	JAMBALO                       
+360	LA SIERRA                     
+361	LA VEGA                       
+362	LOPEZ                         
+363	MERCADERES                    
+364	MIRANDA                       
+365	MORALES                       
+366	PADILLA                       
+367	PAEZ                          
+368	PATIA(EL BORDO)               
+369	PIENDAMO                      
+370	PUERTO TEJADA                 
+371	PURACE                        
+372	ROSAS                         
+373	SAN SEBASTIAN                 
+374	SANTANDER DE QUILICHAO        
+375	SANTA ROSA                    
+376	SILVIA                        
+377	SOTARA                        
+378	SUAREZ                        
+379	TIMBIO                        
+380	TIMBIQUI                      
+381	TORIBIO                       
+382	TOTORO                        
+383	VALLEDUPAR                    
+384	AGUACHICA                     
+385	AGUSTIN CODAZZI               
+386	ASTREA                        
+387	BECERRIL                      
+388	BOSCONIA                      
+389	CHIMICHAGUA                   
+390	CHIRIGUANA                    
+391	CURUMANI                      
+392	EL COPEY                      
+393	EL PASO                       
+394	GAMARRA                       
+395	GONZALEZ                      
+396	LA GLORIA                     
+397	LA JAGUA DE IBIRICO           
+398	MANAURE BALCON DL CESAR       
+399	PAILITAS                      
+400	PELAYA                        
+401	RIO DE ORO                    
+402	LA PAZ                        
+403	SAN ALBERTO                   
+404	SAN DIEGO                     
+405	SAN MARTIN                    
+406	TAMALAMEQUE                   
+407	MONTERIA                      
+408	AYAPEL                        
+409	BUENAVISTA                    
+410	CANALETE                      
+411	CERETE                        
+412	CHIMA                         
+413	CHINU                         
+414	CIENAGA DE ORO                
+415	LORICA                        
+416	LOS CORDOBAS                  
+417	MOMIL                         
+418	MONTELIBANO                   
+419	MO#ITOS                       
+420	PLANETA RICA                  
+421	PUEBLO NUEVO                  
+422	PUERTO ESCONDIDO              
+423	PUERTO LIBERTADOR             
+424	PURISIMA                      
+425	SAHAGUN                       
+426	SAN ANDRES SOTAVENTO          
+427	SAN ANTERO                    
+428	SAN BERNARDO DEL VIENTO       
+429	SAN CARLOS                    
+430	SAN PELAYO                    
+431	TIERRALTA                     
+432	VALENCIA                      
+433	AGUA DE DIOS                  
+434	ALBAN                         
+435	ANAPOIMA                      
+436	ANOLAIMA                      
+437	ARBELAEZ                      
+438	BELTRAN                       
+439	BITUIMA                       
+440	BOJACA                        
+441	CABRERA                       
+442	CACHIPAY                      
+443	CAJICA                        
+444	CAPARRAPI                     
+445	CAQUEZA                       
+446	CARMEN DE CARUPA              
+447	CHAGUANI                      
+448	CHIA                          
+449	CHIPAQUE                      
+450	CHOACHI                       
+451	CHOCONTA                      
+452	COGUA                         
+453	COTA                          
+454	CUCUNUBA                      
+455	EL COLEGIO                    
+456	EL PENON                      
+457	FACATATIVA                    
+458	FOMEQUE                       
+459	FOSCA                         
+460	FUNZA                         
+461	FUQUENE                       
+462	FUSAGASUGA                    
+463	GACHALA                       
+464	GACHANCIPA                    
+465	GACHETA                       
+466	GAMA                          
+467	GIRARDOT                      
+468	GUACHETA                      
+469	GUADUAS                       
+470	GUASCA                        
+471	GUATAQUI                      
+472	GUATAVITA                     
+473	GUAYABAL DE SIQUIMA           
+474	GUAYABETAL                    
+475	GUTIERREZ                     
+476	JERUSALEN                     
+477	JUNIN                         
+478	LA CALERA                     
+479	LA MESA                       
+480	LA PALMA                      
+481	LA PE A                       
+482	LA VEGA                       
+483	LENGUAZAQUE                   
+484	MACHETA                       
+485	MADRID                        
+486	MANTA                         
+487	MEDINA                        
+488	MOSQUERA                      
+489	NARI#O                        
+490	NEMOCON                       
+491	NILO                          
+492	NIMAIMA                       
+493	NOCAIMA                       
+494	VENECIA                       
+495	PACHO                         
+496	PAIME                         
+497	PANDI                         
+498	PARATEBUENO                   
+499	PASCA                         
+500	PUERTO SALGAR                 
+501	PULI                          
+502	QUEBRADANEGRA                 
+503	QUETAME                       
+504	QUIPILE                       
+505	APULO                         
+506	RICAURTE                      
+507	S.ANTONIO TEQUENDAMA          
+508	SAN BERNARDO                  
+509	SAN CAYETANO                  
+510	SAN FRANCISCO                 
+511	SAN JUAN DE RIO SECO          
+512	SASAIMA                       
+513	SESQUILE                      
+514	SIBATE                        
+515	SILVANIA                      
+516	SIMIJACA                      
+517	SOACHA                        
+518	SOPO                          
+519	SUBACHOQUE                    
+520	SUESCA                        
+521	SUPATA                        
+522	SUSA                          
+523	SUTATAUSA                     
+524	TABIO                         
+525	TAUSA                         
+526	TENA                          
+527	TENJO                         
+528	TIBACUY                       
+529	TIBIRITA                      
+530	TOCAIMA                       
+531	TOCANCIPA                     
+532	TOPAIPI                       
+533	UBALA                         
+534	UBAQUE                        
+535	UBATE                         
+536	UNE                           
+537	UTICA                         
+538	VERGARA                       
+539	VIANI                         
+540	VILLAGOMEZ                    
+541	VILLAPINZON                   
+542	VILLETA                       
+543	VIOTA                         
+544	YACOPI                        
+545	ZIPACON                       
+546	ZIPAQUIRA                     
+547	QUIBDO                        
+548	ACANDI                        
+549	ALTO BAUDO                    
+550	BAGADO                        
+551	BAHIA SOLANO                  
+552	BAJO BAUDO                    
+553	BOJAYA                        
+554	CONDOTO                       
+555	EL CARMEN                     
+556	EL LITORAL DEL SAN JUAN       
+557	ITSMINA
+558	JURADO                        
+559	LLORO                         
+560	NOVITA                        
+561	NUQUI                         
+562	RIOSUCIO                      
+563	SAN JOSE DEL PALMAR           
+564	SIPI                          
+565	TADO                          
+566	UNGUIA                        
+567	NEIVA                         
+568	ACEVEDO                       
+569	AGRADO                        
+570	AIPE                          
+571	ALGECIRAS                     
+572	ALTAMIRA                      
+573	BARAYA                        
+574	CAMPOALEGRE                   
+575	COLOMBIA                      
+576	ELIAS                         
+577	GARZON                        
+578	GIGANTE                       
+579	GUADALUPE                     
+580	HOBO                          
+581	IQUIRA                        
+582	ISNOS                         
+583	LA ARGENTINA                  
+584	LA PLATA                      
+585	NATAGA                        
+586	OPORAPA                       
+587	PAICOL                        
+588	PALERMO                       
+589	PALESTINA                     
+590	PITAL                         
+591	PITALITO                      
+592	RIVERA                        
+593	SALADOBLANCO                  
+594	SAN AGUSTIN                   
+595	SANTA MARIA                   
+596	SUAZA                         
+597	TARQUI                        
+598	TESALIA                       
+599	TELLO                         
+600	TERUEL                        
+601	TIMANA                        
+602	VILLAVIEJA                    
+603	YAGUARA                       
+604	RIOHACHA                      
+605	BARRANCAS                     
+606	EL MOLINO                     
+607	FONSECA                       
+608	MAICAO                        
+609	MANAURE                       
+610	SAN JUAN DEL CESAR            
+611	URIBIA                        
+612	URUMITA                       
+613	VILLANUEVA                    
+614	SANTA MARTA                   
+615	ARACATACA                     
+616	ARIGUANI                      
+617	CERRO SAN ANTONIO             
+618	CHIVOLO                       
+619	CIENAGA                       
+620	EL BANCO                      
+621	EL PI#ON                      
+622	FUNDACION                     
+623	GUAMAL                        
+624	PEDRAZA                       
+625	PIVIJAY                       
+626	PLATO                         
+627	PUEBLOVIEJO                   
+628	REMOLINO                      
+629	SALAMINA                      
+630	SAN SEBASTIAN BUENAVIST       
+631	SAN ZENON                     
+632	SANTA ANA                     
+633	SITIONUEVO                    
+634	TENERIFE                      
+635	VILLAVICENCIO                 
+636	ACACIAS                       
+637	BARRANCA DE UPIA              
+638	CABUYARO                      
+639	CASTILLA LA NUEVA             
+640	CUBARRAL                      
+641	CUMARAL                       
+642	EL CALVARIO                   
+643	EL CASTILLO                   
+644	EL DORADO                     
+645	FUENTE DE ORO                 
+646	GRANADA                       
+647	GUAMAL                        
+648	MAPIRIPAN                     
+649	MESETAS                       
+650	LA MACARENA                   
+651	LA URIBE                      
+652	LEJANIAS                      
+653	PUERTO CONCORDIA              
+654	PUERTO GAITAN                 
+655	PUERTO LOPEZ                  
+656	PUERTO LLERAS                 
+657	PUERTO RICO                   
+658	RESTREPO                      
+659	SAN CARLOS GUAROA             
+660	SAN JUAN DE ARAMA             
+661	SAN JUANITO                   
+662	SAN MARTIN                    
+663	VISTA HERMOSA                 
+664	PASTO                         
+665	ALBAN                         
+666	ALDANA                        
+667	ANCUYA                        
+668	ARBOLEDA                      
+669	BARBACOAS                     
+670	BELEN                         
+671	BUESACO                       
+672	COLON                         
+673	CONSACA                       
+674	CONTADERO                     
+675	CORDOBA                       
+676	CUASPUD                       
+677	CUMBAL                        
+678	CUMBITARA                     
+679	CHACHAGUI                     
+680	EL CHARCO                     
+681	EL ROSARIO                    
+682	EL TABLON                     
+683	EL TAMBO                      
+684	FUNES                         
+685	GUACHUCAL                     
+686	GUAITARILLA                   
+687	GUALMATAN                     
+688	ILES                          
+689	IMUES                         
+690	IPIALES                       
+691	LA CRUZ                       
+692	LA FLORIDA                    
+693	LA LLANADA                    
+694	LA TOLA                       
+695	LA UNION                      
+696	LEIVA                         
+697	LINARES                       
+698	LOS ANDES                     
+699	MAGUI                         
+700	MALLAMA                       
+701	MOSQUERA                      
+702	OLAYA HERRERA                 
+703	OSPINA                        
+704	FRANCIS PIZARRO               
+705	POLICARPA                     
+706	POTOSI                        
+707	PROVIDENCIA                   
+708	PUERRES                       
+709	PUPIALES                      
+710	RICAURTE                      
+711	ROBERTO PAYAN                 
+712	SAMANIEGO                     
+713	SANDONA                       
+714	SAN BERNARDO                  
+715	SAN LORENZO                   
+716	SAN PABLO                     
+717	SAN PEDRO DE CARTAGO          
+718	SANTA BARBARA                 
+719	SANTACRUZ                     
+720	SAPUYES                       
+721	TAMINANGO                     
+722	TANGUA                        
+723	TUMACO                        
+724	TUQUERRES                     
+725	YACUANQUER                    
+726	CUCUTA                        
+727	ABREGO                        
+728	ARBOLEDAS                     
+729	BOCHALEMA                     
+730	BUCARASICA                    
+731	CACOTA                        
+732	CACHIRA                       
+733	CHINACOTA                     
+734	CHITAGA                       
+735	CONVENCION                    
+736	CUCUTILLA                     
+737	DURANIA                       
+738	EL CARMEN                     
+739	EL TARRA                      
+740	EL ZULIA                      
+741	GRAMALOTE                     
+742	HACARI                        
+743	HERRAN                        
+744	LABATECA                      
+1024	SAN FRANCISCO                 
+1025	SANTIAGO                      
+1026	VALLE GUAMUEZ                 
+1027	VILLAGARZON                   
+1028	SAN ANDRES                    
+1029	PROVIDENCIA                   
+1030	SANTAFE DE ANTIOQUIA          
+1031	LETICIA                       
+1032	EL ENCANTO                    
+1033	LA CHORRERA                   
+1034	LA PEDRERA                    
+1035	MIRITI-PARANA                 
+1036	PUERTO NARI#O                 
+1037	PTO SANTANDER                 
+1038	TARAPACA                      
+1039	INIRIDA                       
+1040	GUAVIARE                      
+1041	SAN JOSE DEL GUAVIARE         
+1042	CALAMAR                       
+1043	EL RETORNO                    
+1044	MIRAFLORES                    
+1045	MORICHAL                      
+1046	MITU                          
+1047	CARURU                        
+2884	ACACIAS
+2885	BARRANCA DE UPIA
+2886	CABUYARO
+2887	CASTILLA LA NUEVA
+2888	CUBARRAL
+2889	CUMARAL
+2890	EL CALVARIO
+2891	EL CASTILLO
+2892	EL DORADO
+2893	FUENTE DE ORO
+2894	GRANADA
+2895	GUAMAL
+2896	MAPIRIPAN
+2897	MESETAS
+2898	LA MACARENA
+2899	LA URIBE
+2900	LEJANIAS
+2901	PUERTO CONCORDIA
+2902	PUERTO GAITAN
+2903	PUERTO LOPEZ
+2904	PUERTO LLERAS
+2905	PUERTO RICO
+2906	RESTREPO
+2907	SAN CARLOS GUAROA
+2908	SAN JUAN DE ARAMA
+2909	SAN JUANITO
+2910	SAN MARTIN
+2911	VISTA HERMOSA
+2912	PASTO
+2913	ALBAN
+2914	ALDANA
+2915	ANCUYA
+2916	ARBOLEDA
+2917	BARBACOAS
+2918	BELEN
+2919	BUESACO
+2920	COLON
+2921	CONSACA
+2922	CONTADERO
+2923	CORDOBA
+2924	CUASPUD
+2925	CUMBAL
+2926	CUMBITARA
+2927	CHACHAGUI
+2928	EL CHARCO
+2929	EL ROSARIO
+2930	EL TABLON
+2931	EL TAMBO
+2932	FUNES
+2933	GUACHUCAL
+2934	GUAITARILLA
+2935	GUALMATAN
+2936	ILES
+2937	IMUES
+2938	IPIALES
+2939	LA CRUZ
+2940	LA FLORIDA
+2941	LA LLANADA
+2942	LA TOLA
+2943	LA UNION
+2944	LEIVA
+2945	LINARES
+2946	LOS ANDES
+2947	MAGUI
+2948	MALLAMA
+2949	MOSQUERA
+2950	OLAYA HERRERA
+2951	OSPINA
+2952	FRANCIS PIZARRO
+2953	POLICARPA
+2954	POTOSI
+2955	PROVIDENCIA
+2956	PUERRES
+2957	PUPIALES
+2958	RICAURTE
+2959	ROBERTO PAYAN
+2960	SAMANIEGO
+2961	SANDONA
+2962	SAN BERNARDO
+2963	SAN LORENZO
+2964	SAN PABLO
+2965	SAN PEDRO DE CARTAGO
+2966	SANTA BARBARA
+2967	SANTACRUZ
+2968	SAPUYES
+2969	TAMINANGO
+2970	TANGUA
+2971	TUMACO
+2972	TUQUERRES
+2973	YACUANQUER
+2974	CUCUTA
+2975	ABREGO
+2976	ARBOLEDAS
+2977	BOCHALEMA
+2978	BUCARASICA
+2979	CACOTA
+2980	CACHIRA
+2981	CHINACOTA
+2982	CHITAGA
+2983	CONVENCION
+2984	CUCUTILLA
+2985	DURANIA
+2986	EL CARMEN
+2987	EL TARRA
+2988	EL ZULIA
+2989	GRAMALOTE
+2990	HACARI
+2991	HERRAN
+2992	LABATECA
+2993	LA PLAYA
+2994	LOS PATIOS
+2995	LOURDES
+2996	MUTISCUA
+2997	OCA#A
+2998	PAMPLONA
+2999	PAMPLONITA
+3000	RAGONVALIA
+3001	SALAZAR
+3002	SAN CALIXTO
+3003	SAN CAYETANO
+3004	SANTIAGO
+3005	SARDINATA
+3006	SILOS
+3007	TEORAMA
+3008	TIBU
+3009	TOLEDO
+3010	VILLA CARO
+3011	VILLA DEL ROSARIO
+3012	ARMENIA
+3013	BUENAVISTA
+3014	CALARCA
+3015	CIRCASIA
+3016	CORDOBA
+3017	FILANDIA
+3018	GENOVA
+3019	LA TEBAIDA
+3020	MONTENEGRO
+3021	PIJAO
+3022	QUIMBAYA
+3023	SALENTO
+3024	PEREIRA
+3025	APIA
+3026	BALBOA
+3027	BELEN DE UMBRIA
+3028	DOS QUEBRADAS
+3029	GUATICA
+3030	LA CELIA
+3031	LA VIRGINIA
+3032	MARSELLA
+3033	MISTRATO
+3034	PUEBLO RICO
+3035	QUINCHIA
+3036	SANTA ROSA DE CABAL
+3037	SANTUARIO
+3038	BUCARAMANGA
+3039	AGUADA
+3040	ALBANIA
+3041	ARATOCA
+3042	BARBOSA
+3043	BARICHARA
+3044	BARRANCABERMEJA
+3045	BETULIA
+3046	BOLIVAR
+3047	CABRERA
+3048	CALIFORNIA
+3049	CAPITANEJO
+3050	CARCASI
+3051	CEPITA
+3052	CERRITO
+3053	CHARALA
+3054	CHARTA
+3055	CHIMA
+3056	CHIPATA
+3057	CIMITARRA
+3058	CONCEPCION
+3059	CONFINES
+3060	CONTRATACION
+3061	COROMORO
+3062	CURITI
+3063	EL CARMEN
+3064	EL GUACAMAYO
+3065	EL PE#ON
+3066	EL PLAYON
+3067	ENCINO
+3068	ENCISO
+3069	FLORIAN
+3070	FLORIDABLANCA
+3071	GALAN
+3072	GAMBITA
+3073	GIRON
+3074	GUACA
+3075	GUADALUPE
+3076	GUAPOTA
+3077	GUAVATA
+3078	GUEPSA
+3079	HATO
+3080	JESUS MARIA
+3081	JORDAN
+3082	LA BELLEZA
+3083	LANDAZURI
+3084	LA PAZ
+3085	LEBRIJA
+3086	LOS SANTOS
+3087	MACARAVITA
+3088	MALAGA
+3089	MATANZA
+3090	MOGOTES
+3091	MOLAGAVITA
+3092	OCAMONTE
+3093	OIBA
+3094	ONZAGA
+3095	PALMAR
+3096	PALMAS SOCORRO
+3097	PARAMO
+3098	PIEDECUESTA
+3099	PINCHOTE
+3100	PUENTE NACIONAL
+3101	PUERTO PARRA
+3102	PUERTO WILCHES
+3103	RIONEGRO
+3104	SABANA DE TORRES
+3105	SAN ANDRES
+3106	SAN BENITO
+3107	SAN GIL
+3108	SAN JOAQUIN
+3109	SAN JOSE DE MIRANDA
+3110	SAN MIGUEL
+3111	SAN VICENTE DE CHUCURI
+3112	SANTA BARBARA
+3113	SANTA HELENA DEL OPON
+3114	SIMACOTA
+3115	SOCORRO
+3116	SUAITA
+3117	SUCRE
+3118	SURATA
+3119	TONA
+3120	VALLE DE SAN JOSE
+3121	VELEZ
+3122	VETAS
+3123	VILLANUEVA
+3124	ZAPATOCA
+3125	SINCELEJO
+3126	BUENAVISTA
+3127	CAIMITO
+3128	COLOSO
+3129	COROZAL
+3130	CHALAN
+3131	GALERAS
+3132	GUARANDA
+3133	LA UNION
+3134	LOS PALMITOS
+3135	MAJAGUAL
+3136	MORROA
+3137	OVEJAS
+3138	PALMITO
+3139	SAMPUES
+3140	SAN BENITO ABAD
+3141	SAN JUAN DE BETULIA
+3142	SAN MARCOS
+3143	SAN ONOFRE
+3144	SAN PEDRO
+3145	SINCE
+3146	SUCRE
+3147	TOLU
+3148	TOLUVIEJO
+3149	IBAGUE
+3150	ALPUJARRA
+3151	ALVARADO
+3152	AMBALEMA
+3153	ANZOATEGUI
+3154	ARMERO
+3155	ATACO
+3156	CAJAMARCA
+3157	CARMEN DE APICALA
+3158	CASABIANCA
+3159	CHAPARRAL
+3160	COELLO
+3161	COYAIMA
+3162	CUNDAY
+3163	DOLORES
+3164	ESPINAL
+3165	FALAN
+3166	FLANDES
+3167	FRESNO
+3168	GUAMO
+3169	HERVEO
+3170	HONDA
+3171	ICONONZO
+3172	LERIDA
+3173	LIBANO
+3174	MARIQUITA
+3175	MELGAR
+3176	MURILLO
+3177	NATAGAIMA
+3178	ORTEGA
+3179	PIEDRAS
+3180	PLANADAS
+3181	PRADO
+3182	PURIFICACION
+3183	RIOBLANCO
+3184	RONCESVALLES
+3185	ROVIRA
+3186	SALDA#A
+3187	SAN ANTONIO
+3188	SAN LUIS
+3189	SANTA ISABEL
+3190	SUAREZ
+3191	VALLE DE SAN JUAN
+3192	VENADILLO
+3193	VILLAHERMOSA
+3194	VILLARRICA
+3195	CALI
+3196	ALCALA
+3197	ANDALUCIA
+3198	ANSERMANUEVO
+3199	ARGELIA
+3200	BOLIVAR
+3201	BUENAVENTURA
+3202	BUGA
+3203	BUGALAGRANDE
+3204	CAICEDONIA
+3205	CALIMA
+3206	CANDELARIA
+3207	CARTAGO
+3208	DAGUA
+3209	EL AGUILA
+3210	EL CAIRO
+3211	EL CERRITO
+3212	EL DOVIO
+3213	FLORIDA
+3214	GINEBRA
+3215	GUACARI
+3216	JAMUNDI
+3217	LA CUMBRE
+3218	LA UNION
+3219	LA VICTORIA
+3220	OBANDO
+3221	PALMIRA
+3222	PRADERA
+3223	RESTREPO
+3224	RIOFRIO
+3225	ROLDANILLO
+3226	SAN PEDRO
+3227	SEVILLA
+3228	TORO
+3229	TRUJILLO
+3230	TULUA
+3231	ULLOA
+3232	VERSALLES
+3233	VIJES
+3234	YOTOCO
+3235	YUMBO
+3236	ZARZAL
+3237	ARAUCA
+3238	ARAUQUITA
+3239	CRAVO NORTE
+3240	FORTUL
+3241	PUERTO RONDON
+3242	SARAVENA
+3243	TAME
+3244	YOPAL
+3245	AGUAZUL
+3246	CHAMEZA
+3247	HATO COROZAL
+3248	LA SALINA
+3249	MANI
+3250	MONTERREY
+3251	NUNCHIA
+3252	OROCUE
+3253	PAZ DE ARIPORO
+3254	PORE
+3255	RECETOR
+3256	SABANALARGA
+3257	SACAMA
+3258	SAN LUIS DE PALENQUE
+3259	TAMARA
+3260	TAURAMENA
+3261	TRINIDAD
+3262	VILLANUEVA
+3263	MOCOA
+3264	COLON
+3265	ORITO
+3266	PUERTO ASIS
+3267	PUERTO CAICEDO
+3268	PUERTO GUZMAN
+3269	PUERTO  LEGUIZAMO
+3270	SIBUNDOY
+3271	SAN FRANCISCO
+3272	SANTIAGO
+3273	VALLE GUAMUEZ
+3274	VILLAGARZON
+3275	SAN ANDRES
+3276	PROVIDENCIA
+3277	LETICIA
+3278	EL ENCANTO
+3279	LA CHORRERA
+3280	LA PEDRERA
+3281	MIRITI-PARANA
+3282	PUERTO NARI#O
+3283	PTO SANTANDER
+3284	TARAPACA
+3285	INIRIDA
+3286	GUAVIARE
+3287	SAN JOSE DEL GUAVIARE
+3288	CALAMAR
+3289	EL RETORNO
+3290	MIRAFLORES
+3291	MORICHAL
+3292	MITU
+3293	CARURU
+3294	PACOA
+3295	YAVARATE
+3296	PUERTO CARREÑO
+3297	LA PRIMAVERA
+3298	SANTA RITA
+3299	SAN JOSE DE OCUNE
+3300	SANTA ROSALIA
+3301	UNION PANAMERICANA
+3302	VILLA RICA
+3303	PUERTO AYACUCHO
+3304	BARCELONA
+3305	SAN FERNANDO
+3306	MARACAY
+3307	BARINAS
+3308	CIUDAD BOLIVAR
+3309	VALENCIA
+3310	SAN CARLOS
+3311	TUCUPITA
+3312	CORO
+3313	SAN JUAN DE LOS MORROS
+3314	BARQUISIMETO
+3315	MERIDA
+3316	LOS TEQUES
+3317	MATURIN
+3318	LA ASUNCION
+3319	GUANARE
+3320	CUMANA
+3321	SAN CRISTOBAL
+3322	TRUJILLO
+3323	VARGAS
+3324	SAN FELIPE
+3325	MARACAIBO
+3326	SANTIAGO DE CHILE
+3327	BARCELONA
+3328	MADRID
+3329	PATILLAS
+3330	PATILLAS
+3331	CILAVEGNA
+3332	Sin ciudad
+3333	Sin ciudad
+3334	Sin ciudad
+3335	Sin ciudad
+3336	Sin ciudad
+3337	Sin ciudad
+3338	JARAGUA DO SUL
+3339	DALLAS
+3340	CHAMPLAIN
+3341	WOODSIDE
+3342	CHINATOWN
+3343	NEW YORK
+3344	PAVIA
+3345	SANTIAGO
+3346	DAVID
+3347	DAVID
+3348	BAKERSFIELD
+3349	BROOKLYN NY 11237
+3350	ISESAKI-SHI
+3351	TEL-AVIV-HOLON
+3352	CAROLINA
+3758	LA PINTADA
+1048	PACOA                         
+1049	YAVARATE                      
+1050	PUERTO CARREÑO
+1051	LA PRIMAVERA                  
+1052	SANTA RITA                    
+1053	SAN JOSE DE OCUNE             
+1054	SANTA ROSALIA                 
+1055	CARACAS  ( VENEZUELA)         
+1056	ESTADO MIRANDA  (VENEZUELA)   
+1057	SANTA CRUZ (BOLIVIA)          
+1058	TORONTO ( CANADA)             
+1059	GUANAJUATO ( MEXICO)          
+1060	GUADALAJARA ( MEXICO )        
+1061	JALISCO ( MEXICO )            
+1062	TOLUCA ( MEXICO )             
+1063	PANAMA                        
+1064	SAN PEDRO SULA ( HONDURAS)    
+1065	CHOLUTECA ( HONDURAS)         
+1066	TEGUCIGALPA ( HONDURAS )      
+1067	SANTIAGO DE CHILE             
+1068	SAN JOSE ( COSTA RICA)        
+1069	HEREDIA ( COSTA RICA)         
+1070	ALAJUELA ( COSTA RICA)        
+1071	GUAYAQUIL ( ECUADOR)          
+1072	QUITO ( ECUADOR )             
+1073	GUAYAQUIL ( ECUADOR )         
+1074	MADRID ( ESPAÑA)              
+1075	BARCELONA (ESPAÑA )           
+1076	CAGUAS  (PUERTO RICO )        
+1077	CURACAO                       
+1078	CATANIA ( ITALIA)             
+1079	GUATEMALA                     
+1080	MIXCO ( GUATEMALA )           
+1081	EL SALVADOR                   
+1082	LIMA ( PERU)                  
+1083	IQUITOS ( PERU)               
+1084	ORLANDO  (FLORIDA )           
+1085	MIAMI ( FLORIDA)              
+1086	NEW YERSEY ( U.S.A)           
+1087	HOUSTON-TEXAS                 
+931	PIEDRAS                       
+932	PLANADAS                      
+933	PRADO                         
+934	PURIFICACION                  
+935	RIOBLANCO                     
+936	RONCESVALLES                  
+937	ROVIRA                        
+938	SALDA#A                       
+939	SAN ANTONIO                   
+940	SAN LUIS                      
+941	SANTA ISABEL                  
+942	SUAREZ                        
+943	VALLE DE SAN JUAN             
+944	VENADILLO                     
+945	VILLAHERMOSA                  
+946	VILLARRICA                    
+947	CALI
+948	ALCALA                        
+949	ANDALUCIA                     
+950	ANSERMANUEVO                  
+951	ARGELIA                       
+952	BOLIVAR                       
+953	BUENAVENTURA                  
+954	BUGA                          
+955	BUGALAGRANDE                  
+956	CAICEDONIA                    
+957	CALIMA                        
+958	CANDELARIA                    
+959	CARTAGO                       
+960	ESTAMOS UBICADOS EN YUMBO     
+961	DAGUA                         
+962	EL AGUILA                     
+963	EL CAIRO                      
+964	EL CERRITO                    
+965	EL DOVIO                      
+966	FLORIDA                       
+967	GINEBRA                       
+968	GUACARI                       
+969	JAMUNDI                       
+970	LA CUMBRE                     
+971	LA UNION                      
+972	LA VICTORIA                   
+973	OBANDO                        
+974	PALMIRA                       
+975	PRADERA                       
+976	RESTREPO                      
+977	RIOFRIO                       
+978	ROLDANILLO                    
+979	SAN PEDRO                     
+980	SEVILLA                       
+981	TORO                          
+982	TRUJILLO                      
+983	TULUA                         
+984	ULLOA                         
+985	VERSALLES                     
+986	VIJES                         
+987	YOTOCO                        
+988	YUMBO                         
+989	ZARZAL                        
+990	ARAUCA                        
+991	ARAUQUITA                     
+992	CRAVO NORTE                   
+993	FORTUL                        
+994	PUERTO RONDON                 
+995	SARAVENA                      
+996	TAME                          
+997	YOPAL                         
+998	AGUAZUL                       
+999	CHAMEZA                       
+1000	HATO COROZAL                  
+1001	LA SALINA                     
+1002	MANI                          
+1003	MONTERREY                     
+1004	NUNCHIA                       
+1005	OROCUE                        
+1006	PAZ DE ARIPORO                
+1007	PORE                          
+1008	RECETOR                       
+1009	SABANALARGA                   
+1010	SACAMA                        
+1011	SAN LUIS DE PALENQUE          
+1012	TAMARA                        
+1013	TAURAMENA                     
+1014	TRINIDAD                      
+1015	VILLANUEVA                    
+1016	MOCOA                         
+1017	COLON                         
+1018	ORITO                         
+1019	PUERTO ASIS                   
+1020	PUERTO CAICEDO                
+1021	PUERTO GUZMAN                 
+1022	PUERTO  LEGUIZAMO             
+1023	SIBUNDOY                      
+838	LOS SANTOS                    
+839	MACARAVITA                    
+840	MALAGA                        
+841	MATANZA                       
+842	MOGOTES                       
+843	MOLAGAVITA                    
+844	OCAMONTE                      
+845	OIBA                          
+846	ONZAGA                        
+847	PALMAR                        
+848	PALMAS SOCORRO                
+849	PARAMO                        
+850	PIEDECUESTA                   
+851	PINCHOTE                      
+852	PUENTE NACIONAL               
+853	PUERTO PARRA                  
+854	PUERTO WILCHES                
+855	RIONEGRO                      
+856	SABANA DE TORRES              
+857	SAN ANDRES                    
+858	SAN BENITO                    
+859	SAN GIL                       
+860	SAN JOAQUIN                   
+861	SAN JOSE DE MIRANDA           
+862	SAN MIGUEL                    
+863	SAN VICENTE DE CHUCURI        
+864	SANTA BARBARA                 
+865	SANTA HELENA DEL OPON         
+866	SIMACOTA                      
+867	SOCORRO                       
+868	SUAITA                        
+869	SUCRE                         
+870	SURATA                        
+871	TONA                          
+872	VALLE DE SAN JOSE             
+873	VELEZ                         
+874	VETAS                         
+875	VILLANUEVA                    
+876	ZAPATOCA                      
+877	SINCELEJO                     
+878	BUENAVISTA                    
+879	CAIMITO                       
+880	COLOSO                        
+881	COROZAL                       
+882	CHALAN                        
+883	GALERAS                       
+884	GUARANDA                      
+885	LA UNION                      
+886	LOS PALMITOS                  
+887	MAJAGUAL                      
+888	MORROA                        
+889	OVEJAS                        
+890	PALMITO                       
+891	SAMPUES                       
+892	SAN BENITO ABAD               
+893	SAN JUAN DE BETULIA           
+894	SAN MARCOS                    
+895	SAN ONOFRE                    
+896	SAN PEDRO                     
+897	SINCE                         
+898	SUCRE                         
+899	TOLU                          
+900	TOLUVIEJO                     
+901	IBAGUE                        
+902	ALPUJARRA                     
+903	ALVARADO                      
+904	AMBALEMA                      
+905	ANZOATEGUI                    
+906	ARMERO                        
+907	ATACO                         
+908	CAJAMARCA                     
+909	CARMEN DE APICALA             
+910	CASABIANCA                    
+911	CHAPARRAL                     
+912	COELLO                        
+913	COYAIMA                       
+914	CUNDAY                        
+915	DOLORES                       
+916	ESPINAL                       
+917	FALAN                         
+918	FLANDES                       
+919	FRESNO                        
+920	GUAMO                         
+921	HERVEO                        
+922	HONDA                         
+923	ICONONZO                      
+924	LERIDA                        
+925	LIBANO                        
+926	MARIQUITA                     
+927	MELGAR                        
+928	MURILLO                       
+929	NATAGAIMA                     
+930	ORTEGA                        
+745	LA PLAYA                      
+746	LOS PATIOS                    
+747	LOURDES                       
+748	MUTISCUA                      
+749	OCA#A                         
+750	PAMPLONA                      
+751	PAMPLONITA                    
+752	RAGONVALIA                    
+753	SALAZAR                       
+754	SAN CALIXTO                   
+755	SAN CAYETANO                  
+756	SANTIAGO                      
+757	SARDINATA                     
+758	SILOS                         
+759	TEORAMA                       
+760	TIBU                          
+761	TOLEDO                        
+762	VILLA CARO                    
+763	VILLA DEL ROSARIO             
+764	ARMENIA
+765	BUENAVISTA                    
+766	CALARCA                       
+767	CIRCASIA                      
+768	CORDOBA                       
+769	FILANDIA                      
+770	GENOVA                        
+771	LA TEBAIDA                    
+772	MONTENEGRO                    
+773	PIJAO                         
+774	QUIMBAYA                      
+775	SALENTO                       
+776	PEREIRA                       
+777	APIA                          
+778	BALBOA                        
+779	BELEN DE UMBRIA               
+780	DOS QUEBRADAS                 
+781	GUATICA                       
+782	LA CELIA                      
+783	LA VIRGINIA                   
+784	MARSELLA                      
+785	MISTRATO                      
+786	PUEBLO RICO                   
+787	QUINCHIA                      
+788	SANTA ROSA DE CABAL           
+789	SANTUARIO                     
+790	BUCARAMANGA                   
+791	AGUADA                        
+792	ALBANIA                       
+793	ARATOCA                       
+794	BARBOSA                       
+795	BARICHARA                     
+796	BARRANCABERMEJA               
+797	BETULIA                       
+798	BOLIVAR                       
+799	CABRERA                       
+800	CALIFORNIA                    
+801	CAPITANEJO                    
+802	CARCASI                       
+803	CEPITA                        
+804	CERRITO                       
+805	CHARALA                       
+806	CHARTA                        
+807	CHIMA                         
+808	CHIPATA                       
+809	CIMITARRA                     
+810	CONCEPCION                    
+811	CONFINES                      
+812	CONTRATACION                  
+813	COROMORO                      
+814	CURITI                        
+815	EL CARMEN                     
+816	EL GUACAMAYO                  
+817	EL PE#ON                      
+818	EL PLAYON                     
+819	ENCINO                        
+820	ENCISO                        
+821	FLORIAN                       
+822	FLORIDABLANCA                 
+823	GALAN                         
+824	GAMBITA                       
+825	GIRON                         
+826	GUACA                         
+827	GUADALUPE                     
+828	GUAPOTA                       
+829	GUAVATA                       
+830	GUEPSA                        
+831	HATO                          
+832	JESUS MARIA                   
+833	JORDAN                        
+834	LA BELLEZA                    
+835	LANDAZURI                     
+836	LA PAZ                        
+837	LEBRIJA                       
+1088	PUERTO RICO                   
+1089	CIUDAD DE MEXICO              
+1090	TRINIDAD Y TOBAGO             
+1091	BADAJOZ (ESPAÑA)              
+1092	ST MAARTEN                    
+1093	ORANJESTAD                    
+1094	ARUBA                         
+1095	HERTZLIA                      
+1096	MANAGUA                       
+1097	NORTH CAROLINE                
+1098	VILLA RICA                    
+1099	LA PAZ                        
+1100	NEW YORK                      
+1101	ENCARNACION                   
+1102	SAN MARTIN                    
+1103	PHILADELPHIA                  
+1104	NAUCALPAN                     
+1105	LERMA                         
+1106	ZAPOPAN                       
+1107	GUADALAJARA                   
+1108	CIUDAD DE MEXICO              
+1109	CADIZ                         
+1110	TEL-AVIV-HOLON                
+1111	TEL-AVIV-HOLON                
+1112	NUSSDRF AM INN                
+1113	COLON                         
+1114	WILEMSTAD                     
+1115	SANTO DOMINGO                 
+1117	INTIBUCA                      
+1118	MONTREAL                      
+1119	CHELSEA                       
+1120	EAST BOSTON                   
+1121	CONCORD                       
+1122	ELIZABETH                     
+1123	UNION CITY                    
+1124	WEST NEW YORK                 
+1125	CORONA                        
+1126	ASTORIA                       
+1127	CENTRAL FALLS                 
+1128	JACKSON HEIGTHS               
+1129	EAST BOSTON                   
+1116	SAN JUAN                      
+2294	EL BAGRE
+2295	ENTRERRIOS
+2296	ENVIGADO
+2297	FREDONIA
+2298	FRONTINO
+2299	GIRALDO
+2300	GIRARDOTA
+2301	GOMEZ PLATA
+2302	GRANADA
+2303	GUADALUPE
+2304	GUARNE
+2305	GUATAPE
+2306	HELICONIA
+2307	HISPANIA
+2308	ITAGUI
+2309	ITUANGO
+2310	JARDIN
+2311	JERICO
+2312	LA CEJA
+2313	LA ESTRELLA
+2314	LA UNION
+2315	LIBORINA
+2316	MACEO
+2317	MARINILLA
+2318	MONTEBELLO
+2319	MURINDO
+2320	MUTATA
+2321	NARI#O
+2322	NECOCLI
+2323	NECHI
+2324	OLAYA
+2325	PE#OL
+2326	PEQUE
+2327	PUEBLORRICO
+2328	PUERTO BERRIO
+2329	PTO NARE(LAMAGDALENA)
+2330	PUERTO TRIUNFO
+2331	REMEDIOS
+2332	RETIRO
+2333	RIONEGRO
+2334	SABANALARGA
+2335	SABANETA
+2336	SALGAR
+2337	SAN ANDRES
+2338	SAN CARLOS
+2339	SAN FRANCISCO
+2340	SAN JERONIMO
+2341	SAN JOSE DE LA MONTA#A
+2342	SAN JUAN DE URABA
+2343	SAN LUIS
+2344	SAN PEDRO
+2345	SAN PEDRO DE URABA
+2346	SAN RAFAEL
+2347	SAN ROQUE
+2348	SAN VICENTE
+2349	SANTA BARBARA
+2350	SANTA ROSA DE OSOS
+2351	SANTO DOMINGO
+2352	SANTUARIO
+2353	SEGOVIA
+2354	SONSON
+2355	SOPETRAN
+2356	TAMESIS
+2357	TARAZA
+2358	TARSO
+2359	TITIRIBI
+2360	TOLEDO
+2361	TURBO
+2362	URAMITA
+2363	URRAO
+2364	VALDIVIA
+2365	VALPARAISO
+2366	VEGACHI
+2367	VENECIA
+2368	VIGIA DEL FUERTE
+2369	YALI
+2370	YARUMAL
+2371	YOLOMBO
+2372	YONDO
+2373	ZARAGOZA
+2374	BARRANQUILLA
+2375	BARANOA
+2376	CAMPO D LA CRUZ
+2377	CANDELARIA
+2378	GALAPA
+2379	JUAN DE ACOSTA
+2380	LURUACO
+2381	MALAMBO
+2382	MANATI
+2383	PALMAR DE VARELA
+2384	PIOJO
+2385	POLONUEVO
+2386	PONEDERA
+2387	PUERTO COLOMBIA
+2388	REPELON
+2389	SABANAGRANDE
+2390	SABANALARGA
+2391	SANTA LUCIA
+2392	SANTO TOMAS
+2393	SOLEDAD
+2394	SUAN
+2395	TUBARA
+2396	USIACURI
+2397	SANTAFE DE BOGOTA D.C.
+2398	CARTAGENA
+2399	ACHI
+2400	ARJONA
+2401	BARRANCO DE LOBA
+2402	CALAMAR
+2403	CORDOBA
+2404	EL CARMEN DE BOLIVAR
+2405	EL GUAMO
+2406	MAGANGUE
+2407	MAHATES
+2408	MARGARITA
+2409	MARIA LA BAJA
+2410	MOMPOS
+2411	MORALES
+2412	PINILLOS
+2413	RIO VIEJO
+2414	SAN ESTANISLAO
+2415	SAN FERNANDO
+2416	SAN JACINTO
+2417	SAN JUAN NEPOMUCENO
+2418	SAN MARTIN DE LOBA
+2419	SAN PABLO
+2420	SANTA CATALINA
+2421	SANTA ROSA
+2422	SANTA ROSA DEL SUR
+2423	SIMITI
+2424	SOPLAVIENTO
+2425	TALAIGUA NUEVO
+2426	TURBACO
+2427	TURBANA
+2428	VILLANUEVA
+2429	ZAMBRANO
+2430	TUNJA
+2431	ALMEIDA
+2432	AQUITANIA
+2433	ARCABUCO
+2434	BELEN
+2435	BERBEO
+2436	BETEITIVA
+2437	BOAVITA
+2438	BOYACA
+2439	BRICENO
+2440	BUENAVISTA
+2441	BUSBANZA
+2442	CALDAS
+2443	CAMPOHERMOSO
+2444	CERINZA
+2445	CHINAVITA
+2446	CHIQUINQUIRA
+2447	CHISCAS
+2448	CHITA
+2449	CHITARAQUE
+2450	CHIVATA
+2451	CIENEGA
+2452	COMBITA
+2453	COPER
+2454	CORRALES
+2455	COVARACHIA
+2456	CUBARA
+2457	CUCAITA
+2458	CUITIVA
+2459	CHIQUIZA
+2460	CHIVOR
+2461	DUITAMA
+2462	EL COCUY
+2463	EL ESPINO
+2464	FIRAVITOBA
+2465	FLORESTA
+2466	GACHANTIVA
+2467	GAMEZA
+2468	GARAGOA
+2469	GUACAMAYAS
+2470	GUATEQUE
+2471	GUAYATA
+2472	GUICAN
+2473	IZA
+2474	JENESANO
+2475	JERICO
+2476	LABRANZAGRANDE
+2477	LA CAPILLA
+2478	LA VICTORIA
+2479	LA UVITA
+2480	VILLA DE LEYVA
+2481	MACANAL
+2482	MARIPI
+2483	MIRAFLORES
+2484	MONGUA
+2485	MONGUI
+2486	MONIQUIRA
+2487	MOTAVITA
+2488	MUZO
+2489	NOBSA
+2490	NUEVO COLON
+2491	OICATA
+2492	OTANCHE
+2493	PACHAVITA
+2494	PAEZ
+2495	PAIPA
+2496	PAJARITO
+2497	PANQUEBA
+2498	PAUNA
+2499	PAYA
+2500	PAZ DE RIO
+2501	PESCA
+2502	PISVA
+2503	PUERTO BOYACA
+2504	QUIPAMA
+2505	RAMIRIQUI
+2506	RAQUIRA
+2507	RONDON
+2508	SABOYA
+2509	SACHICA
+2510	SAMACA
+2511	SAN EDUARDO
+2512	SAN JOSE DE PARE
+2513	SAN LUIS DE GACENO
+2514	SAN MATEO
+2515	SAN MIGUEL DE SEMA
+2516	SAN PABLO DE BORBUR
+2517	SANTANA
+2518	SANTA MARIA
+2519	SANTA ROSA DE VITERBO
+2520	SANTA SOFIA
+2521	SATIVANORTE
+2522	SATIVASUR
+2523	SIACHOQUE
+2524	SOATA
+2525	SOCOTA
+2526	SOCHA
+2527	SOGAMOSO
+2528	SOMONDOCO
+2529	SORA
+2530	SOTAQUIRA
+2531	SORACA
+2532	SUSACON
+2533	SUTAMARCHAN
+2534	SUTATENZA
+2535	TASCO
+2536	TENZA
+2537	TIBANA
+2538	TIBASOSA
+2539	TINJACA
+2540	TIPACOQUE
+2541	TOCA
+2542	TOGUI
+2543	TOPAGA
+2544	TOTA
+2545	TUNUNGUA
+2546	TURMEQUE
+2547	TUTA
+2548	TUTASA
+2549	UMBITA
+2550	VENTAQUEMADA
+2551	VIRACACHA
+2552	ZETAQUIRA
+2553	MANIZALES
+2554	AGUADAS
+2555	ANSERMA
+2556	ARANZAZU
+2557	BELALCAZAR
+2558	CHINCHINA
+2559	FILADELFIA
+2560	LA DORADA
+2561	LA MERCED
+2562	MANZANARES
+2563	MARMATO
+2564	MARQUETALIA
+2565	MARULANDA
+2566	NEIRA
+2567	PACORA
+2568	PALESTINA
+2569	PENSILVANIA
+2570	RIOSUCIO
+2571	RISARALDA
+2572	SALAMINA
+2573	SAMANA
+2574	SUPIA
+2575	VICTORIA
+2576	VILLAMARIA
+2577	VITERBO
+2578	FLORENCIA
+2579	ALBANIA
+2580	BELEN DE LOS ANDAQUIES
+2581	CARTAGENA DEL CHAIRA
+2582	CURILLO
+2583	EL DONCELLO
+2584	EL PAUJIL
+2585	LA MONTA#ITA
+2586	MILAN
+2587	MORELIA
+2588	PUERTO RICO
+2589	SAN JOSE DE FRAGUA
+2590	SAN VICENTE DEL CAGUAN
+2591	SOLANO
+2592	VALPARAISO
+2593	POPAYAN
+2594	ALMAGUER
+2595	ARGELIA
+2596	BALBOA
+2597	BOLIVAR
+2598	BUENOS AIRES
+2599	CAJIBIO
+2600	CALDONO
+2601	CALOTO
+2602	CORINTO
+2603	EL TAMBO
+2604	FLORENCIA
+2605	GUAPI
+2606	INZA
+2607	JAMBALO
+2608	LA SIERRA
+2609	LA VEGA
+2610	LOPEZ
+2611	MERCADERES
+2612	MIRANDA
+2613	MORALES
+2614	PADILLA
+2615	PAEZ
+2616	PATIA(EL BORDO)
+2617	PIENDAMO
+2618	PUERTO TEJADA
+2619	PURACE
+2620	ROSAS
+2621	SAN SEBASTIAN
+2622	SANTANDER DE QUILICHAO
+2623	SANTA ROSA
+2624	SILVIA
+2625	SOTARA
+2626	SUAREZ
+2627	TIMBIO
+2628	TIMBIQUI
+2629	TORIBIO
+2630	TOTORO
+2631	VALLEDUPAR
+2632	AGUACHICA
+2633	AGUSTIN CODAZZI
+2634	ASTREA
+2635	BECERRIL
+2636	BOSCONIA
+2637	CHIMICHAGUA
+2638	CHIRIGUANA
+2639	CURUMANI
+2640	EL COPEY
+2641	EL PASO
+2642	GAMARRA
+2643	GONZALEZ
+2644	LA GLORIA
+2645	LA JAGUA DE IBIRICO
+2646	MANAURE BALCON DL CESAR
+2647	PAILITAS
+2648	PELAYA
+2649	RIO DE ORO
+2650	LA PAZ
+2651	SAN ALBERTO
+2652	SAN DIEGO
+2653	SAN MARTIN
+2654	TAMALAMEQUE
+2655	MONTERIA
+2656	AYAPEL
+2657	BUENAVISTA
+2658	CANALETE
+2659	CERETE
+2660	CHIMA
+2661	CHINU
+2662	CIENAGA DE ORO
+2663	LORICA
+2664	LOS CORDOBAS
+2665	MOMIL
+2666	MONTELIBANO
+2667	MO#ITOS
+2668	PLANETA RICA
+2669	PUEBLO NUEVO
+2670	PUERTO ESCONDIDO
+2671	PUERTO LIBERTADOR
+2672	PURISIMA
+2673	SAHAGUN
+2674	SAN ANDRES SOTAVENTO
+2675	SAN ANTERO
+2676	SAN BERNARDO DEL VIENTO
+2677	SAN CARLOS
+2678	SAN PELAYO
+2679	TIERRALTA
+2680	VALENCIA
+2681	AGUA DE DIOS
+2682	ALBAN
+2683	ANAPOIMA
+2684	ANOLAIMA
+2685	ARBELAEZ
+2686	BELTRAN
+2687	BITUIMA
+2688	BOJACA
+2689	CABRERA
+2690	CACHIPAY
+2691	CAJICA
+2692	CAPARRAPI
+2693	CAQUEZA
+2694	CARMEN DE CARUPA
+2695	CHAGUANI
+2696	CHIA
+2697	CHIPAQUE
+2698	CHOACHI
+2699	CHOCONTA
+2700	COGUA
+2701	COTA
+2702	CUCUNUBA
+2703	EL COLEGIO
+2704	EL PENON
+2705	FACATATIVA
+2706	FOMEQUE
+2707	FOSCA
+2708	FUNZA
+2709	FUQUENE
+2710	FUSAGASUGA
+2711	GACHALA
+2712	GACHANCIPA
+2713	GACHETA
+2714	GAMA
+2715	GIRARDOT
+2716	GUACHETA
+2717	GUADUAS
+2718	GUASCA
+2719	GUATAQUI
+2720	GUATAVITA
+2721	GUAYABAL DE SIQUIMA
+2722	GUAYABETAL
+2723	GUTIERREZ
+2724	JERUSALEN
+2725	JUNIN
+2726	LA CALERA
+2727	LA MESA
+2728	LA PALMA
+2729	LA PE A
+2730	LA VEGA
+2731	LENGUAZAQUE
+2732	MACHETA
+2733	MADRID
+2734	MANTA
+2735	MEDINA
+2736	MOSQUERA
+2737	NARI#O
+2738	NEMOCON
+2739	NILO
+2740	NIMAIMA
+2741	NOCAIMA
+2742	VENECIA
+2743	PACHO
+2744	PAIME
+2745	PANDI
+2746	PARATEBUENO
+2747	PASCA
+2748	PUERTO SALGAR
+2749	PULI
+2750	QUEBRADANEGRA
+2751	QUETAME
+2752	QUIPILE
+2753	APULO
+2754	RICAURTE
+2755	S.ANTONIO TEQUENDAMA
+2756	SAN BERNARDO
+2757	SAN CAYETANO
+2758	SAN FRANCISCO
+2759	SAN JUAN DE RIO SECO
+2760	SASAIMA
+2761	SESQUILE
+2762	SIBATE
+2763	SILVANIA
+2764	SIMIJACA
+3353	CAROLINA
+3354	PUERTO CABELLO
+3355	PUERTO FIJO
+3356	CHICHIRIVICHE
+3357	UPATA
+3358	PORLAMAR
+3359	PUERTO LA CRUZ
+3360	GUACARA
+3361	TINAQUILLO
+3362	VALLE DE LA PASCUA
+3363	GUARENAS
+3367	PALMAR DE MALLORCA
+3365	ROSARIO DE PRIJA
+3368	EL EMPALME
+3369	PLAYAS
+3370	DAULE
+3371	MILAGRO
+3372	EL TRIUNFO
+3373	NARANJAL
+3374	LA TRONCAL
+3375	VALLES
+3376	CAYAMBE
+3377	SALGOLQUI
+3378	LOS BANCOS
+3379	TABACUNDO
+3380	MALDONADO
+3381	IBARRA
+3382	OTAVALO
+3383	ATUNTAQUI
+3384	COTACACHI
+3385	AMBATO
+3386	BAÑOS
+3387	LATACUNGA
+3388	LA MANA
+3389	RIOBAMBA
+3390	ALAUSI
+3391	GUARANDA
+3392	AZOGUES
+3393	CUENCA
+3394	GUALACEO
+3395	PAUTE
+3396	LOJA
+3397	CATAMAYO
+3398	MACARA
+3399	ESMERALDAS
+3400	ATACAMES
+3401	PORTOVIEJO
+3402	MANTA
+3403	BABAHOYO
+3404	QUEVEDO
+3405	STO DOMINGO
+3406	TULCAN
+3407	SAN GABRIEL
+3408	SALINAS
+3409	PLAYAS
+3410	LA LIBERTAD
+3411	MACHALA
+3412	HUAQUILLAS
+3413	STA ROSA
+3414	EL GUABO
+3415	PASAJE
+3416	TENA
+3417	ORELLANA
+3418	NUEVA LOJA
+3419	PUYO
+3420	MACAS
+3421	ZAMORA
+3422	SAN CRISTOBAL
+3423	OTTAWA
+3424	MONTEVIDEO
+3425	MONTEVIDEO
+3426	LA PAZ
+3427	COCHABAMBA
+3428	BRESCIA
+3429	COVEÑAS
+3430	RHODEISLAND
+2181	WILLEMSTAD
+2182	ORANJESTAD
+2183	SANTA CRUZ DE LA SIERRA
+2184	SAN JOSE
+2185	GUAYAQUIL
+2186	SAN SALVADOR
+2187	CADIZ
+2188	CIUDAD DE GUATEMALA
+2189	MIXCO
+2190	TEGUCIGALPA
+2191	GUADALAJARA
+2192	CIUDAD DE MEXICO
+2193	NAUCALPAN
+2194	ZAPOPAN
+2195	LIMA
+2196	SANTO DOMINGO
+2197	CHELSE
+2198	MIAMI
+2199	CONCORD
+2200	NEW JERSEY
+2201	BOSTON
+2202	CARACAS
+2204	CORONA
+2205	CURACAO
+2206	ASTORIA
+2207	ELIZABETH
+2209	UNION CITY
+2210	WEST NEW YORK
+2211	SAN PEDRO SULA
+2212	JACKSON HEIGTHS
+2213	LERMA
+2214	MONTREAL
+2215	CHELSEA
+2216	ARUBA
+2217	CENTRAL FALLS
+2218	SAO PABLO
+2219	QUITO
+2220	SANTO DOMINGO
+2221	CIUDAD DE PANAMA
+2222	HOMESTEAD
+2223	BERNA
+2224	MADRID
+2225	CARACAS
+2226	PUERTO AYACUCHO
+2227	BARCELONA
+2228	SAN FERNANDO
+2229	MARACAY
+2230	BARINAS
+2231	CUIDAD BOLIVAR
+2232	VALENCIA
+2233	SAN CARLOS
+2234	TUCUPITA
+2235	CORO
+2236	SAN JUAN DE LOS MORROS
+2237	BARQUISIMETO
+2238	MERIDA
+2239	LOS TEQUES
+2240	MATURIN
+2241	LA ASUNCION
+2242	GUANARE
+2243	CUMANA
+2244	SAN CRISTOBAL
+2245	TRUJILLO
+2246	VARGAS
+2247	SAN FELIPE
+2248	MARACAIBO
+2249	PORT ST LUCY
+2250	MEDELLIN
+2251	ABEJORRAL
+2252	ABRIAQUI
+2253	ALEJANDRIA
+2254	AMAGA
+2255	AMALFI
+2256	ANDES
+2257	ANGELOPOLIS
+2258	ANGOSTURA
+2259	ANORI
+2260	SANTA FE DE ANTIOQUIA
+2261	ANZA
+2262	APARTADO
+2263	ARBOLETES
+2264	ARGELIA
+2265	ARMENIA
+2266	BARBOSA
+2267	BELMIRA
+2268	BELLO
+2269	BETANIA
+2270	BETULIA
+2271	BOLIVAR
+2272	BRICE#O
+2273	BURITICA
+2274	CACERES
+2275	CAICEDO
+2276	CALDAS
+2277	CAMPAMENTO
+2278	CAÑASGORDAS
+2279	CARACOLI
+2280	CARAMANTA
+2281	CAREPA
+2282	CARMEN DE VIBORAL
+2283	CAROLINA
+2284	CAUCASIA
+2285	CHIGORODO
+2286	CISNEROS
+2287	COCORNA
+2288	CONCEPCION
+2289	CONCORDIA
+2290	COPACABANA
+2291	DABEIBA
+2292	DON MATIAS
+2293	EBEJICO
+2765	SOACHA
+2766	SOPO
+2767	SUBACHOQUE
+2768	SUESCA
+2769	SUPATA
+2770	SUSA
+2771	SUTATAUSA
+2772	TABIO
+2773	TAUSA
+2774	TENA
+2775	TENJO
+2776	TIBACUY
+2777	TIBIRITA
+2778	TOCAIMA
+2779	TOCANCIPA
+2780	TOPAIPI
+2781	UBALA
+2782	UBAQUE
+2783	UBATE
+2784	UNE
+2785	UTICA
+2786	VERGARA
+2787	VIANI
+2788	VILLAGOMEZ
+2789	VILLAPINZON
+2790	VILLETA
+2791	VIOTA
+2792	YACOPI
+2793	ZIPACON
+2794	ZIPAQUIRA
+2795	QUIBDO
+2796	ACANDI
+2797	ALTO BAUDO
+2798	BAGADO
+2799	BAHIA SOLANO
+2800	BAJO BAUDO
+2801	BOJAYA
+2802	CONDOTO
+2803	EL CARMEN
+2804	EL LITORAL DEL SAN JUAN
+2805	ITSMINA
+2806	JURADO
+2807	LLORO
+2808	NOVITA
+2809	NUQUI
+2810	RIOSUCIO
+2811	SAN JOSE DEL PALMAR
+2812	SIPI
+2813	TADO
+2814	UNGUIA
+2815	NEIVA
+2816	ACEVEDO
+2817	AGRADO
+2818	AIPE
+2819	ALGECIRAS
+2820	ALTAMIRA
+2821	BARAYA
+2822	CAMPOALEGRE
+2823	COLOMBIA
+2824	ELIAS
+2825	GARZON
+2826	GIGANTE
+2827	GUADALUPE
+2828	HOBO
+2829	IQUIRA
+2830	ISNOS
+2831	LA ARGENTINA
+2832	LA PLATA
+2833	NATAGA
+2834	OPORAPA
+2835	PAICOL
+2836	PALERMO
+2837	PALESTINA
+2838	PITAL
+2839	PITALITO
+2840	RIVERA
+2841	SALADOBLANCO
+2842	SAN AGUSTIN
+2843	SANTA MARIA
+2844	SUAZA
+2845	TARQUI
+2846	TESALIA
+2847	TELLO
+2848	TERUEL
+2849	TIMANA
+2850	VILLAVIEJA
+2851	YAGUARA
+2852	RIOHACHA
+2853	BARRANCAS
+2854	EL MOLINO
+2855	FONSECA
+2856	MAICAO
+2857	MANAURE
+2858	SAN JUAN DEL CESAR
+2859	URIBIA
+2860	URUMITA
+2861	VILLANUEVA
+2862	SANTA MARTA
+idCiudad	Ciudad
+2863	ARACATACA
+2864	ARIGUANI
+2865	CERRO SAN ANTONIO
+2866	CHIVOLO
+2867	CIENAGA
+2868	EL BANCO
+2869	EL PI#ON
+2870	FUNDACION
+2871	GUAMAL
+2872	PEDRAZA
+2873	PIVIJAY
+2874	PLATO
+2875	PUEBLOVIEJO
+2876	REMOLINO
+2877	SALAMINA
+2878	SAN SEBASTIAN BUENAVIST
+2879	SAN ZENON
+2880	SANTA ANA
+2881	SITIONUEVO
+2882	TENERIFE
+2883	VILLAVICENCIO

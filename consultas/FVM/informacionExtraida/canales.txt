@@ -1,0 +1,4 @@
+idCanal,DescCanal
+001       	TRADICIONAL
+002       	MODERNO
+003       	EXTERIOR
